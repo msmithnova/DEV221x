@@ -6,7 +6,7 @@ Welcome\
 Pre-course Survey\
 About this Course\
 Meet the Instructors\
-Introduce Yourself\
+Introduce Yourself
 
 ## Module 1
 
@@ -17,7 +17,7 @@ Assessment\
 Tutorial Lab: Implementing a Session Factory\
 Assessment\
 Self-Assessment Lab: Services and Factories\
-Assessment\
+Assessment
 
 ## Module 2
 
@@ -32,7 +32,7 @@ Assessment\
 Tutorial Lab: Manipulating the DOM with Link Functions\
 Assessment\
 Self-Assessment Lab: Implementing Directives and Isolated Scope\
-Assessment\
+Assessment
 
 ## Module 3
 
@@ -43,7 +43,7 @@ Assessment\
 Tutorial Lab: Using ng-animate\
 Assessment\
 Self-Assessment Lab: Implementing Angular Bootstrap and Animation\
-Assessment\
+Assessment
 
 ## Module 4
 
@@ -53,7 +53,7 @@ Tutorial Lab: Installing Node and NPM\
 Assessment\
 Tutorial Lab: Installing Express\
 Assessment\
-Self-Assessment Lab: Installing Packages By Using Node and NPM\
+Self-Assessment Lab: Installing Packages By Using Node and NPM
 
 ## Module 5
 
@@ -66,7 +66,7 @@ Assessment\
 Tutorial Lab: Implementing Angular Routing\
 Assessment\
 Self-Assessment Lab: Adding Routes and Pages in an Angular Application\
-Assessment\
+Assessment
 
 ## Module 6
 
@@ -77,6 +77,6 @@ Assessment\
 Tutorial Lab: Implementing End-To-End Testing\
 Assessment\
 Self-Assessment Lab: Implementing Unit and End-To-End Tests\
-Assessment\
+Assessment
 
-Post-Course Survey\
+Post-Course Survey
