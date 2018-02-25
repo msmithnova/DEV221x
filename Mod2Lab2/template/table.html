@@ -1,0 +1,18 @@
+<table class="table">
+    <thead>
+        <th>Name</th>
+        <th>Nationality</th>
+        <th>Dates</th>
+        <th></th>
+    </thead>
+    <tbody>
+        <tr ng-repeat="author in data" ng-mouseenter="hover=true" ng-mouseleave="hover=false" ng-class="{silver: hover}">
+            <td>{{author.name}}</td>
+            <td>{{author.nationality}}</td>
+            <td>{{author.date}}</td>
+            <td>
+                <input type="button" ng-click="action({author: author})" value="Details" class="btn btn-primary"/>
+            </td>
+        </tr>
+    </tbody>
+</table>
