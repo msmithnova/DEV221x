@@ -23,5 +23,11 @@ angular.module('app').controller('LabController', [
         function dismissAlert(index) {
             vm.alerts.splice(index, 1);
         }
+
+        vm.date = new Date();
+        vm.dateOptions = {
+            showWeeks: false,
+            minDate: vm.date
+        };
     }
 ]);
